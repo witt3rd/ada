@@ -2,6 +2,8 @@
 
 ADA (Advanced Digital Assistant) is a proof-of-concept personal AI assistant that uses voice recognition, natural language processing, and various AI models to help with tasks, answer questions, and interact with your computer.
 
+Original: [Dan Isler's gist](https://gist.github.com/disler/1d926e312b2f46474b1773bace21f014)
+
 ## Features
 
 - Voice activation with the keyword "Ada"
@@ -27,8 +29,8 @@ ADA (Advanced Digital Assistant) is a proof-of-concept personal AI assistant tha
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/ada-ai-assistant.git
-   cd ada-ai-assistant
+   git clone git@github.com:witt3rd/ada.git
+   cd ada
    ```
 
 2. Install the required dependencies:
@@ -49,7 +51,7 @@ ADA (Advanced Digital Assistant) is a proof-of-concept personal AI assistant tha
 4. Run the main script:
 
    ```sh
-   python main9_ada_personal_ai_assistant_v02.py
+   python main.py
    ```
 
 ## Usage
