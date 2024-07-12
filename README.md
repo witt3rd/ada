@@ -36,7 +36,7 @@ Original: [Dan Isler's gist](https://gist.github.com/disler/1d926e312b2f46474b17
 2. Install the required dependencies:
 
    ```sh
-   pip install -r requirements.txt
+   pip install .
    ```
 
 3. Set up your environment variables in a `.env` file:
